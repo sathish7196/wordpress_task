@@ -1,0 +1,62 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aGFyaXNoLm1pY2FuZG1hY0BnbWFpbC5jb20=
+CLIENT -> SERVER: aGFyaXNoQDIz
+CLIENT -> SERVER: MAIL FROM:<admin@doodleblue.com>
+CLIENT -> SERVER: RCPT TO:<sathish7196@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 24 Feb 2018 10:34:46 +0000
+CLIENT -> SERVER: To: sathish7196@gmail.com
+CLIENT -> SERVER: From: Doodleblue <admin@doodleblue.com>
+CLIENT -> SERVER: Reply-To: sathish7196@gmail.com
+CLIENT -> SERVER: Subject: Mercedez Benz "TEST CONTACT"
+CLIENT -> SERVER: Message-ID: <42425936aa14bb3b9f2966b82ec39485@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Sathish <sathish7196@gmail.com>
+CLIENT -> SERVER: Subject: TEST CONTACT
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: HI MESSAGE
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Mercedez Benz (http://localhost/doodleblue_task)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO localhost
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aGFyaXNoLm1pY2FuZG1hY0BnbWFpbC5jb20=
+CLIENT -> SERVER: aGFyaXNoQDIz
+CLIENT -> SERVER: MAIL FROM:<admin@doodleblue.com>
+CLIENT -> SERVER: RCPT TO:<hemanthkumar881@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 24 Feb 2018 10:39:26 +0000
+CLIENT -> SERVER: To: hemanthkumar881@gmail.com
+CLIENT -> SERVER: From: Doodleblue <admin@doodleblue.com>
+CLIENT -> SERVER: Reply-To: sathish7196@gmail.com
+CLIENT -> SERVER: Subject: Mercedez Benz "test mail"
+CLIENT -> SERVER: Message-ID: <e5c252a201b0006775992230224ba420@localhost>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Sathish <sathish7196@gmail.com>
+CLIENT -> SERVER: Subject: test mail
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: mail to admin
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Mercedez Benz (http://localhost/doodleblue_task)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
